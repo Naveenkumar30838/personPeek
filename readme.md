@@ -1,6 +1,6 @@
-//(This project uses [YOLOv8]&#40;https://github.com/ultralytics/ultralytics&#41; and 
-//OpenCV to detect people in real-time from a webcam stream. Whenever a person is detected in the camera frame, 
-//the system prints `person detected` in the terminal.)
+(This project uses [YOLOv8n]&#40;https://github.com/ultralytics/ultralytics&#41; and 
+OpenCV to detect people in real-time from a webcam stream. Whenever a person is detected in the camera frame, 
+the system prints `person detected` in the terminal.)
 
 ## Requirements
 
