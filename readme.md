@@ -18,3 +18,6 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
+
+## **OutPut : **
+<img width="1867" height="1072" alt="Screenshot from 2025-08-06 12-22-25" src="https://github.com/user-attachments/assets/83bbe003-4bcb-459f-bc60-8f28e8f08e90" />
