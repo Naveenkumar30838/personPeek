@@ -20,4 +20,4 @@ pip install -r requirements.txt
 ```
 
 ## **OutPut : **
-<img width="1867" height="1072" alt="Screenshot from 2025-08-06 12-22-25" src="https://github.com/user-attachments/assets/83bbe003-4bcb-459f-bc60-8f28e8f08e90" />
+<img width="1493" height="839" alt="InzI0pqFK6HDwQW" src="https://github.com/user-attachments/assets/960e95b9-e68e-43c7-b8e7-72b2f10571a1" />
